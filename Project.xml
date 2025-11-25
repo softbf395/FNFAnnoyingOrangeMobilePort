@@ -108,7 +108,7 @@
 	<haxelib name="linc_luajit" if="LUA_ALLOWED"/>
 	<haxelib name="hscript-iris" if="HSCRIPT_ALLOWED" version="1.1.0"/>
 	<haxelib name="hxvlc" if="VIDEOS_ALLOWED" version="1.8.2"/>
-	<haxelib name="hxcodec" if="VIDEOS_ALLOWED" version="1.8.2"/>
+	<haxelib name="hxcodec" if="VIDEOS_ALLOWED" version="3.0.2"/>
 	<haxelib name="hxdiscord_rpc" version="1.2.4" if="DISCORD_ALLOWED"/>
 	<haxelib name="flxanimate"/>
 
